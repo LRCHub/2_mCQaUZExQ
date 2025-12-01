@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "揶揄",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-01T04:40:53.040378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "揶揄",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_揶揄_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "揶揄",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_揶揄_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "揶揄 - Yayu",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/03_揶揄_-_Yayu_Radwimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "揶揄",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_揶揄_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "揶揄",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_02_揶揄_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "揶揄",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_03_揶揄_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "揶揄",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_04_揶揄_RADWIMPS.txt"
+    }
+  ]
+}
